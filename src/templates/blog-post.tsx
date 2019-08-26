@@ -1,8 +1,11 @@
 import * as React from 'react'
 import { graphql } from 'gatsby'
+import Layout from "../components/Layout";
 
 export default ({data: {markdownRemark: post}}) => (
-    <h1>{post.frontmatter.title}</h1>
+    <Layout>
+      <h1 className="text-2xl">{post.frontmatter.title}</h1>
+    </Layout>
 )
 
 export const pageQuery = graphql`

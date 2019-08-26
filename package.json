@@ -13,6 +13,8 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
   },
   "dependencies": {
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.9.0",
     "gatsby": "^2.13.73",
     "gatsby-plugin-netlify-cms": "^4.1.11",
     "gatsby-plugin-postcss": "^2.1.5",
@@ -21,6 +23,7 @@
     "gatsby-source-filesystem": "^2.1.18",
     "gatsby-transformer-remark": "^2.6.19",
     "netlify-cms": "^2.9.7",
+    "netlify-cms-backend-fs": "^0.4.4",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-typography": "^0.16.19",
