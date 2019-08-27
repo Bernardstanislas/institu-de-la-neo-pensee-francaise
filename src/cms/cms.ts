@@ -22,6 +22,5 @@ if (process.env.NODE_ENV === 'development') {
             "name": "git-gateway"
         }
     };
-    config.publish_mode = "editorial_workflow";
 }
 CMS.init({config});
