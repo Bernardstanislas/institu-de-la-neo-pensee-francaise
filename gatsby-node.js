@@ -42,7 +42,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
         createNodeField({
             name: `slug`,
             node,
-            value,
+            value: value.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
         })
     }
 };
