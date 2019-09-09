@@ -14,9 +14,7 @@ tags:
 
 ![](/static/img/uber-chauffeur.jpg)
 
-
-
-* Aux Etats-Unis, on travaille plus longtemps qu'en France, (1790 heures vs 1432, en moyenne, pour les salariés du privé). Nous sommes fiers de notre qualité de vie , de nos acquis sociaux et nous avons le mépris facile pour les hamsters tournant dans la roue du capitalisme. A t-on-raison de préférer un emploi unique à une multitude de jobs ? de penser que la réduction du temps de travail est forcement un progrès ? d'opposer le travail à la vie ?
+Aux Etats-Unis, on travaille plus longtemps qu'en France, (1790 heures vs 1432, en moyenne, pour les salariés du privé). Nous sommes fiers de notre qualité de vie , de nos acquis sociaux et nous avons le mépris facile pour les hamsters tournant dans la roue du capitalisme. A t-on-raison de préférer un emploi unique à une multitude de jobs ? de penser que la réduction du temps de travail est forcement un progrès ? d'opposer le travail à la vie ?
 
 **Les Etats-Unis**
 
@@ -26,5 +24,4 @@ tags:
 **La France**
 
 * En France, le niveau de chômage est autour des 10%. Il est très difficile de trouver un travail car l'employeur sait qu'il y a beaucoup de contraintes pour licencier. Cela explique la ruée des jeunes de banlieue qui désespèrent de pouvoir gagner leur vie vers le métier de chauffeur Uber (la moitié des chauffeurs viennent de milieux défavorisés). Le revers de la médaille, c'est que d'après _Le Monde,_ pour 40 heures par semaine, une fois déduits l'essence, les frais du véhicule et la commission prélevée par Uber, le salaire net d'un chauffeur ne dépasse pas 500 euros par mois. 
-
-En dépit de fortes résistances, La France va dans la même direction que les Etats-Unis. Selon Le Monde, 16% des actifs cumulent déjà, par obligation ou par choix, plusieurs métiers.
+* En dépit de fortes résistances, La France va dans la même direction que les Etats-Unis. Selon Le Monde, 16% des actifs cumulent déjà, par obligation ou par choix, plusieurs métiers.
