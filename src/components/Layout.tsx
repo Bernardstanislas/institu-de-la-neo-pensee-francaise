@@ -3,13 +3,12 @@ import '../style/index.css';
 import Header from "./Header";
 
 type Props = {
-    children: React.ReactNode,
-    padding?: boolean
+    children: React.ReactNode
 }
-const Layout : React.FunctionComponent<Props> = ({ children, padding = true }) => (
-    <div className="container">
+const Layout : React.FunctionComponent<Props> = ({ children }) => (
+    <div className="h-screen">
         <Header/>
-        <div className={padding ? "p-5" : ""}>
+        <div className="h-full">
             {children}
         </div>
     </div>

@@ -19,3 +19,7 @@ h1 {
 h2 {
     @apply py-2;
 }
+
+p > span.gatsby-resp-image-wrapper {
+    @apply my-5;
+}

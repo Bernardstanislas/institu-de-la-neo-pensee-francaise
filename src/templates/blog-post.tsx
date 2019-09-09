@@ -4,9 +4,13 @@ import Layout from "../components/Layout";
 
 export default ({data: {markdownRemark: post}}) => (
     <Layout>
-        <h1 className="text-2xl mb-3">{post.frontmatter.title}</h1>
-        <h2 className="text-gray-500 text-sm mb-6"><i>{post.frontmatter.date}</i></h2>
-        <div className="text-base" dangerouslySetInnerHTML={{__html: post.html}} />
+        <div className="bg-white">
+            <div className="container m-auto p-4">
+                <h1 className="text-2xl mb-3">{post.frontmatter.title}</h1>
+                <h2 className="text-gray-500 text-sm mb-6"><i>{post.frontmatter.date}</i></h2>
+                <div className="text-base" dangerouslySetInnerHTML={{__html: post.html}} />
+            </div>
+        </div>
     </Layout>
 )
 
