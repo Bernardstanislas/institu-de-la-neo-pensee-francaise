@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: >-
-  Pour ou contre pour ou contre attendre que le train démarre avant de commencer
-  à manger son sandwich ?
+  Pour ou contre attendre que le train démarre avant de commencer à manger son
+  sandwich ?
 date: 2019-09-09T13:22:30.897Z
 description: >-
   Parce que parfois il faut prendre de la hauteur pour se poser les bonnes
