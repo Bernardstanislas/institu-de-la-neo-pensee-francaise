@@ -3,3 +3,19 @@
 @tailwind components;
 
 @tailwind utilities;
+
+ol {
+    @apply list-inside list-decimal;
+}
+
+ul {
+    @apply list-inside list-disc;
+}
+
+h1 {
+    @apply py-4;
+}
+
+h2 {
+    @apply py-2;
+}
