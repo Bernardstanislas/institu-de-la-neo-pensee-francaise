@@ -12,7 +12,7 @@ tags:
 ---
 ![](/static/img/depositphotos_17417839-stock-photo-man-looking-out-the-train.jpg)
 
-**Les arguments du pour**
+# **Les arguments du pour**
 
 1. j'ai faim
 2. il faut agir pendant qu'il est temps
@@ -20,7 +20,7 @@ tags:
 4. l'appétit vient en mangeant et si j'ai encore faim après, je peux aller au wagon restaurant avant qu'il y ait la queue
 5. Pierre-Claude-Victor Boiste a dit : "jouir dans le présent sans compromettre l’avenir est toute la science de la vie." je ne sais pas qui est ce mec, mais en l'occurrence là je ne compromets rien du tout donc il vaut mieux que je jouisse
 
-**Les arguments du contre**
+# Les arguments du contre
 
 1. c'est plus pratique de sortir toutes ses affaires quand tout le monde est installé
 2. il est recommandé de prendre le temps de s’asseoir, de manger avec des couverts, de la belle vaisselle même. il faut prêter attention à son repas, aux aliments, aux textures, aux goûts.Prendre le temps de mâcher, de mastiquer afin d’enclencher la digestion et aider le travail de l’estomac, ce qui améliore la digestion et ainsi le confort digestif. (cette phrase est très longue exprès)
