@@ -23,3 +23,15 @@ h2 {
 p > span.gatsby-resp-image-wrapper {
     @apply my-5;
 }
+
+p {
+    @apply mb-1;
+}
+
+blockquote {
+    @apply mb-4;
+}
+
+a {
+    @apply underline text-indigo-700;
+}
