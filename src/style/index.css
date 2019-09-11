@@ -33,5 +33,5 @@ blockquote {
 }
 
 a {
-    @apply underline text-indigo-700;
+    @apply text-indigo-700;
 }
