@@ -34,3 +34,15 @@ Faites attention quand vous offrez un pack en famille à vos cousins pour leur s
 En plus d'être plus écoeurant qu'un pot de miel, les plus érudits d'entre nous ne manqueront pas de célébrer cette entrée dans le monde des amateurs de bières par un petit geste emprunté au monde vinicole : un p'tit sniff au-dessus de la bouteille pour voir ce qu'elle a dans le bide.
 
 Et là, il vaut mieux avoir le slip bien accroché : une odeur de saumon pénètre vos narines et vous ruine toute la sphère ORL, on croirait avoir pris un coke sur un débris de graphite à Chernobyl.
+
+# Son vrai rôle
+
+En en discutant avec plusieurs amateurs de Leffe, ainsi qu'avec d'autres buveurs de bière qui n'auraient pas subi une opération de retrait du palais à l'age de 5 ans, j'ai découvert le vrai rôle de la Leffe : une bière passerelle.
+
+La Leffe n'est pas une bonne bière. Ce n'est pas pour autant une bière d'entrée de gamme. C'est en fait une porte d'entrée vers d'autres bières plus qualitatives, et si elle permet d'éveiller une curiosité, de s'ouvrir à d'autres choses que de la Kro ou de la 1664, alors je comprends son existence.
+
+J'ai cherché quelques exemples de bières qu'on peut avoir envie de tester après avoir fait le tour de la Leffe au bout de 1 gorgée environ, et je me suis rendu à l'évidence que toutes les autres bières qui ne rentrent pas dans la catégorie "passion sucre" sont recommandables.
+
+Je vais même jusqu'à assumer de préférer des bières d'entrée de gamme, pas trop sucrée, à une Leffe. Jamais une 1664 ne vous passera votre envie de diner, aucune Kro n'a jamais saturé mon palais.
+
+Buvez vos bières comme vous buvez votre vin, à chaque occasion sa bouteille, et réconciliez-vous avec votre glycémie !
