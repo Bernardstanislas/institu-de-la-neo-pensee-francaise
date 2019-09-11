@@ -11,11 +11,9 @@ tags:
 ---
 > Je me suis chauffé pour des bonnes bières, j'ai ramené des Leffes !
 
-Difficile d'expliquer à Jean-Gonzague que je préfère me crever un oeil que de boire à ses bières sans le vexer.
+Difficile d'expliquer à Jean-Gonzague que je préfère lécher tous les trottoirs de Paris que de boire ses bières sans le vexer.
 
 Et pourtant, comme Jean-Gonzague, des milliers de gens achètent [tous les jours](https://www.google.fr/search?sxsrf=ACYBGNQO7O3X2JvvJ1wjotpY5zoD8UP2aQ%3A1568221016402&source=hp&ei=WCd5XcqCFo2wa9O1kCg&q=bah+quoi&oq=bah+quoi&gs_l=psy-ab.3..0l2j0i22i30l6j0i22i10i30l2.1006.1773..1985...0.0..0.277.1002.4j2j2......0....1..gws-wiz.......35i39j0i131j0i203j0i10i203.HPHRs2sG9Cs&ved=0ahUKEwjKjvDEnsnkAhUN2BoKHdMaBAUQ4dUDCAU&uact=5) Leffe, Grimbergen ou autres comas glucidiques en bouteille, pour faire plaisir à leurs amis.
-
-
 
 # Une bière de connaisseur
 
@@ -24,8 +22,6 @@ La Leffe est sans doute à la bière ce que les Beats sont aux casques audio.
 Il s'agit du produit vers lequel on se tourne quand on se lasse de l'entrée de gamme. C'est une bière d'abbaye après tout !
 
 Vendue comme une bière de caractère, elle séduit le consommateur qui commence à s'intéresser à la bière, et qui se dit qu'il peut bien mettre quelques euros de plus dans un pack pour ne pas rester l'étudiant qu'il était avec ses Kro.
-
-
 
 # Le problème : le goût
 
