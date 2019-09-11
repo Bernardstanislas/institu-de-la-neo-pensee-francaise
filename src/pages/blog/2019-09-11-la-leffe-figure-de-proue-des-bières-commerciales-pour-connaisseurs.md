@@ -33,7 +33,7 @@ Faites attention quand vous offrez un pack en famille à vos cousins pour leur s
 
 En plus d'être plus écoeurant qu'un pot de miel, les plus érudits d'entre nous ne manqueront pas de célébrer cette entrée dans le monde des amateurs de bières par un petit geste emprunté au monde vinicole : un p'tit sniff au-dessus de la bouteille pour voir ce qu'elle a dans le bide.
 
-Et là, il vaut mieux avoir le slip bien accroché : une odeur de saumon pénètre vos narines et vous ruine toute la sphère ORL, on croirait avoir pris un coke sur un débris de graphite à Chernobyl.
+Et là, il vaut mieux avoir le slip bien accroché : une odeur de saumon pénètre vos narines et vous ruine toute la sphère ORL, on croirait avoir pris un rail de coke sur un débris de graphite à Chernobyl.
 
 # Son vrai rôle
 
