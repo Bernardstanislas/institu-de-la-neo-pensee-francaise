@@ -8,6 +8,8 @@ description: Questionnement de l'Académie Française
 tags:
   - banane
 ---
+![](/static/img/bananes-bienfaits-sante.jpg)
+
 ## Les utilisations courantes du mot banane
 
 * Être une banane : être idiot
