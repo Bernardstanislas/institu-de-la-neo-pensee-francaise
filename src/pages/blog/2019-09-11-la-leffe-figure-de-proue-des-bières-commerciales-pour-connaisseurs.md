@@ -9,6 +9,8 @@ tags:
   - coup de gueule
   - gastronomie
 ---
+![Peste ou cholera](/static/img/6882687481_8d5640934d_o.jpg "Peste ou cholera")
+
 > Je me suis chauffé pour des bonnes bières, j'ai ramené des Leffes !
 
 Difficile d'expliquer à Jean-Gonzague que je préfère lécher tous les trottoirs de Paris que de boire ses bières sans le vexer.
