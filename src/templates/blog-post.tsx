@@ -16,7 +16,9 @@ export default ({data: {markdownRemark: post}}) => {
                     <CommentCount config={disqusConfig} placeholder={'...'} />
                     <h2 className="text-gray-500 text-sm mb-6"><i>{post.frontmatter.date}</i></h2>
                     <div className="text-base" dangerouslySetInnerHTML={{__html: post.html}} />
-                    <Disqus config={disqusConfig} />
+                    <div className="mt-5">
+                        <Disqus config={disqusConfig} />
+                    </div>
                 </div>
             </div>
         </Layout>
