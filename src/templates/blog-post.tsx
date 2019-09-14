@@ -3,9 +3,8 @@ import { Disqus, CommentCount } from 'gatsby-plugin-disqus';
 import { graphql } from 'gatsby'
 import Layout from "../components/Layout";
 
-export default ({data: {markdownRemark: post, site}}) => {
+export default ({data: {markdownRemark: post}}) => {
     const disqusConfig = {
-        url: `${site.host}/${location.pathname}`,
         identifier: post.id,
         title: post.frontmatter.title,
     };
@@ -33,9 +32,6 @@ export const pageQuery = graphql`
         title
         date(formatString: "DD MMMM YYYY", locale: "fr")
       }
-    }
-    site {
-      host
     }
   }
 `;
