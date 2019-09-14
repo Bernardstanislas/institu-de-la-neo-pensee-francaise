@@ -65,6 +65,12 @@ module.exports = {
           },
       },
       {
+          resolve: `gatsby-plugin-disqus`,
+          options: {
+              shortname: `institut-de-la-neo-pensee-francaise`
+          }
+      },
+      {
           resolve: `gatsby-plugin-google-analytics`,
           options: {
               trackingId: "UA-147616555-1",
