@@ -16,7 +16,7 @@ const Article : React.FunctionComponent<Props> = ({ link, title, date, descripti
         <Link to={link} key={id}>
             <div className={`p-4 ${odd ? 'bg-gray-800' : 'bg-white'}`}>
                 <div className="flex justify-between mb-2">
-                    <div><h1 className={`text-xl ${odd ? 'text-white' : 'text-black'}`}>{title}</h1></div>
+                    <div><h1 className={`py-0 text-xl ${odd ? 'text-white' : 'text-black'}`}>{title}</h1></div>
                     <div className={`text-sm ${odd ? 'text-gray-200' : 'text-gray-600'}`}><i>{date}</i></div>
                 </div>
                 <div className={`text-sm ${odd ? 'text-white' : 'text-black'}`}>

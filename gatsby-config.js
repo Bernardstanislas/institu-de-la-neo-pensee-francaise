@@ -11,12 +11,6 @@ module.exports = {
   plugins: [
       'gatsby-plugin-typescript',
       {
-          resolve: `gatsby-plugin-typography`,
-          options: {
-              pathToConfigModule: `src/utils/typography`,
-          },
-      },
-      {
           // keep as first gatsby-source-filesystem plugin for gatsby image support
           resolve: 'gatsby-source-filesystem',
           options: {
