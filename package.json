@@ -32,10 +32,7 @@
     "netlify-cms-backend-fs": "^0.4.4",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-typography": "^0.16.19",
-    "tailwindcss": "^1.1.2",
-    "typography": "^0.16.19",
-    "typography-theme-kirkham": "^0.16.19"
+    "tailwindcss": "^1.1.2"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
