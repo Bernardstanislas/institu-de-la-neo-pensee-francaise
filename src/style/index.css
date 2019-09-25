@@ -1,8 +1,14 @@
+@import "fonts/stylesheet.css";
+
 @tailwind base;
 
 @tailwind components;
 
 @tailwind utilities;
+
+html {
+    @apply font-sans;
+}
 
 ol {
     @apply list-inside list-decimal;
@@ -13,7 +19,7 @@ ul {
 }
 
 h1 {
-    @apply py-4 text-2xl;
+    @apply py-4 text-2xl font-semibold;
 }
 
 h2 {
@@ -29,7 +35,7 @@ p {
 }
 
 blockquote {
-    @apply mb-4;
+    @apply mb-4 italic text-gray-600 text-lg border-gray-600 border-solid border-l-2 pl-4;
 }
 
 a {
