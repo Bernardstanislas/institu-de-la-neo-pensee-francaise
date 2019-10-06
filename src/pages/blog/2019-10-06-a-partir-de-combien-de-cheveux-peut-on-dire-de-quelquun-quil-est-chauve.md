@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: A partir de combien de cheveux peut-on dire de quelqu'un qu'il est chauve ?
 date: 2019-10-06T12:44:30.037Z
-description: Le droit de savoir
+description: 'Dans quelle mesure, à quel point : combien ?'
 tags:
   - chauve
 ---
