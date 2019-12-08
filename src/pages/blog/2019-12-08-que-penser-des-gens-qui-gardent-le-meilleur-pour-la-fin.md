@@ -2,13 +2,12 @@
 templateKey: blog-post
 title: Que penser des gens qui gardent le meilleur pour la fin ?
 date: 2019-12-08T07:39:47.138Z
-description: >-
-  Si je commence par le meilleur, tout le reste sera moins bien. Mais garder la
-  meilleure bouchée c'est prendre le risque de ne plus avoir d'appétit. Dans
-  quel camps es-tu ?
+description: Une analyse psycho-comportemental sporadique et data driven
 tags:
   - manger
 ---
+Si je commence par le meilleur, tout le reste sera forcément moins bien. Mais garder la meilleure bouchée pour la fin c'est prendre le risque de ne plus avoir d'appétit. INPF est là pour t'aider à comprendre.
+
 ## Une analyse psycho-comportemental méthodique, scientifique et sporadique
 
 * Observer les comportements des mangeurs est riche de sens car il reflète les automatismes et habitudes d'un individu. 
