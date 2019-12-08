@@ -8,7 +8,7 @@ tags:
 ---
 Si je commence par le meilleur, tout le reste sera forcément moins bien. Mais garder la meilleure bouchée pour la fin c'est prendre le risque de ne plus avoir d'appétit. Si tu t'es déjà posé cette question, tu seras intéressé de savoir ce que cela dit de toi.
 
-L'insitut de la neo-pensée française (INPF) s'est emparé du sujet et a fait appel à ses meilleurs experts pour filtrer, traiter et fiabiliser les informations sur ce comportement. L'analyse du est riche de sens ! Voici son décryptage :
+L'insitut de la neo-pensée française (INPF) s'est emparé du sujet et a fait appel à ses meilleurs experts pour filtrer, traiter et fiabiliser les informations sur ce comportement. Voici notre décryptage :
 
 
 
