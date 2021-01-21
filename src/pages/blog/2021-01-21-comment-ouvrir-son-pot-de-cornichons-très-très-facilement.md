@@ -37,7 +37,7 @@ Il convient de prendre certaines précautions lors de l’ouverture du couvercle
 5. Faire des trous par endroits le long du bord du couvercle.
 6. Le retirer en glissant _le couteau suisse_ dans l’un des trous.
 
-**Solution 2 : la technique de la cuillère**
+**Solution 3 : la technique de la cuillère**
 
 1. Déposer la boîte sur un plan stable. La tenir fermement avec une main afin de libérer l’autre pour la manipulation de la cuillère.
 2. Placer le bout de _la cuillère_ sur le bord intérieur du couvercle à ouvrir. Faire en sorte d’avoir un rebord légèrement ondulé et surélevé de manière à fermer hermétiquement la conserve. Glisser _la cuillère_ dans l’un des creux, le long du rebord. Maintenir la cuillère, notamment le dos, face au couvercle de la conserve.
