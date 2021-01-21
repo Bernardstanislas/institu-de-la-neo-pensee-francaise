@@ -11,6 +11,8 @@ description: >-
 tags:
   - cornichons
 ---
+****
+
 **Conseils avant d'ouvrir une boîte de conserve**
 
 Il convient de prendre certaines précautions lors de l’ouverture du couvercle afin de prévenir les éventuelles blessures :
@@ -18,6 +20,8 @@ Il convient de prendre certaines précautions lors de l’ouverture du couvercle
 * Éviter de scier le couvercle avec un couteau à pain , car ce n'est pas un couteau à cornichons et des éclats risquent de tomber dans la nourriture
 * Faire le travail dans un endroit suffisamment lumineux pour détecter les éventuels éclats de métal dans la nourriture
 * Ne pas manger les aliments comportant du métal
+
+
 
 **Solution 1 : la technique du couteau** 
 
@@ -28,6 +32,10 @@ Il convient de prendre certaines précautions lors de l’ouverture du couvercle
 5. Faire des trous par endroits le long du bord du couvercle.
 6. Le retirer en glissant _le couteau_ dans l’un des trous.
 
+
+
+
+
 **Solution 2 : la technique du couteau suisse**
 
 1. Commencer par placer la conserve sur une surface stable et plane. La déposer à hauteur des hanches
@@ -37,6 +45,10 @@ Il convient de prendre certaines précautions lors de l’ouverture du couvercle
 5. Faire des trous par endroits le long du bord du couvercle.
 6. Le retirer en glissant _le couteau suisse_ dans l’un des trous.
 
+
+
+
+
 **Solution 3 : la technique de la cuillère**
 
 1. Déposer la boîte sur un plan stable. La tenir fermement avec une main afin de libérer l’autre pour la manipulation de la cuillère.
@@ -44,5 +56,9 @@ Il convient de prendre certaines précautions lors de l’ouverture du couvercle
 3. Glisser le bout de _la cuillère_ d’avant en arrière pour affiner cette partie. Frotter jusqu’à trancher le couvercle.
 4. Reproduire l’opération le long du couvercle jusqu’à ce qu’il ne reste plus qu’un bout reliant le couvercle et la conserve.
 5. Soulever le couvercle en glissant _la cuillère_ sous son bord.
+
+
+
+
 
 Bonne dégustation
